@@ -22,3 +22,7 @@ Advanced webshell detection scanner for security professionals and penetration t
 - Penetration testers
 - Website administrators
 - Security operations teams
+💬 Telegram: @life4to
+
+
+
